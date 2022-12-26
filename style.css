@@ -1,0 +1,81 @@
+:root {
+    --cor1: hsl(158, 36%, 37%);
+    --cor2: hsl(30, 38%, 92%);
+    --cor3: hsl(0, 0%, 100%);
+
+}
+* {
+}
+
+body {
+    
+  
+}
+img {
+
+    
+}
+div { 
+    
+
+}
+
+div > p , h1 {
+  
+}
+
+#descricao {
+    background: #ffffff;
+	width: 350px;
+	height: 620px;
+	border-radius: 3%;
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	margin: auto;
+
+}
+#imagem-produto {
+    height: 100%;
+    width: 100%;
+    border-radius: 3% 3% 0 0;
+}
+#desktop {
+    display: none;
+}
+
+#mobile {
+    display: flex;
+    position: relative;
+}
+
+#descricao-secao {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    height: 55%;
+}
+
+h1 {
+    
+}
+
+#descricao {
+    
+}
+
+#preco-promocional {
+    
+}
+
+#preco-antigo {
+
+}
+
+#botao {
+
+}
